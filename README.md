@@ -16,7 +16,7 @@ now combining that domain knowledge with software development.
 - Sales dashboards, financial reporting, operational KPIs
 - Customer segmentation and RFM analysis
 - Automating repetitive business tasks with Python
-- Building web apps — note-taking tools, currency trackers
+- Building web apps — note-taking tools, [currency trackers](https://pratikur.com)
 
 ### 📫 Contact
 

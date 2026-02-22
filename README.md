@@ -2,14 +2,14 @@
 
 Business analyst with 5+ years in manufacturing, sales, export, and franchise operations.
 I build dashboards, automate workflows, and work with data daily —
-now combining that domain knowledge with software development.
+now building full-stack tools that solve real business problems.
 
 ---
 
 ### 🛠 What I work with
 
 - **Data & Analytics:** Python · SQL · Power BI · Excel & VBA
-- **Web & Software:** Node.js · JavaScript
+- **Web & Software:** React · TypeScript · Python · FastAPI · Node.js · JavaScript
 
 ### 📌 What I do
 
